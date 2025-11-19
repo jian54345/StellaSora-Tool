@@ -5,5 +5,5 @@
 // * IL2CPP application-specific type definition addresses
 // ******************************************************************************
 
-DO_TYPEDEF(0x06F80968, AdventureActor);
-DO_TYPEDEF(0x06F1BAD8, LogicEntity);
+DO_TYPEDEF(0x07074A88, AdventureActor);
+DO_TYPEDEF(0x070D5148, LogicEntity);
